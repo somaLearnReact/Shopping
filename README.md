@@ -17,3 +17,11 @@ required softwares:
 3) visual studio code
 4) any terminal prefered git bash
 5) git desktop
+
+
+
+
+
+
+TOdos:
+
